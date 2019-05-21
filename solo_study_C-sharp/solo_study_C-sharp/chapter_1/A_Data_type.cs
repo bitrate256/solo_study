@@ -10,11 +10,13 @@ namespace solo_study_C_sharp
 		 * 별도의 지정 접미어를 추가한다면 데이터값을 특정할 수 있다.
 		 * 접미어에 있어서 대소문자 구분은 없다. ex) 123M == 123m
 		 */
-	    //123 // int 리터럴
+	    /*
+        123 // int 리터럴
 		123.45 // double 리터럴
 		"A"; // string 리터럴
 		'a'; // char 리터럴
 		true // bool 리터럴
+        */
         // bool
         bool b = true;
         // Numeric
@@ -47,14 +49,16 @@ namespace solo_study_C_sharp
 		 * 모든 데이터 타입이 null 을 가질 수 있는 것은 아니며,
 		 * 데이터타입은 null을 가질 수 있는 Refference 타입과 가질 수 없는 Value 타입으로 구분된다. 
 		 */
+         /*
         string e;
 		e = null;
-
+        */
 		/* Nullable Type */
 		/* 정수나 날짜 같은 Value Type은 null을 가질 수 없지만 2.0 버전 부터 가질 수 있게 되었다.
 		* 이를 Nullable Type 이라고 부른다
 		*/
-		 // Nullable 타입
+        /*
+		// Nullable 타입
 		int? f = null;
         f = 101;
         bool? g = null;
@@ -63,10 +67,12 @@ namespace solo_study_C_sharp
         Nullable<int> h = null;
         h = 10;
         int k = h.Value;
-
+        
+        
         static void Main(string[] args)
     {
         Console.WriteLine("데이터 값에 관한 정리 입니다.");
     }
     }
 }
+*/
