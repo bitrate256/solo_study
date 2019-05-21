@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\chapter_1">
+      <UniqueIdentifier>{2635059a-f132-40b7-8ff6-5777d6065f77}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A_Hello.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\chapter_1</Filter>
+    </ClCompile>
+    <ClCompile Include="B_Escape_sequence.c">
+      <Filter>소스 파일\chapter_1</Filter>
+    </ClCompile>
+    <ClCompile Include="C_printf.c">
+      <Filter>소스 파일\chapter_1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

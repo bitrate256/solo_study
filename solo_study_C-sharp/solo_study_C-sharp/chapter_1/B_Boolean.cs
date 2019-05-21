@@ -36,6 +36,30 @@ namespace solo_study_C_sharp
          *   else
          *       Console.WriteLine("0");
          */
+
+        /* switch 문
+         * int 값에 따라 일치여부를 판단하여 실행할 구역(case)을 식별함.
+         * 조건이 같고 값이 세가지 이상일 때 활용됨.
+         * break는 중괄호 {} 구문을 나간다.
+         * 즉, case 안에서 실행될 경우 switch의 중괄호를 나간다는 뜻이다.
+         * 
+         * switch (int 변수)
+         * {
+         *     case 상수{0}:
+         *         // 사용될 명령어 //
+         *         break;
+         *     case 상수{1}:
+         *         // 사용될 명령어 //
+         *         break;
+         *     case 상수{2}:
+         *         // 사용될 명령어 //
+         *         break;
+         *     defult:
+         *         // 사용될 명령어 //
+         *         break;
+         * }
+         * 
+         */
         static void Main(string[] args)
         {
             Console.Write("숫자를 입력하세요 : ");
@@ -78,6 +102,22 @@ namespace solo_study_C_sharp
             else
                 Console.WriteLine("0보다 작거나 같은 수");
 
+            // 
+            switch (number)
+            {
+                case 10:
+                    Console.WriteLine("case가 10일 경우 출력되는 구문");
+                    break;
+                case 20:
+                    Console.WriteLine("case가 20일 경우 출력되는 구문");
+                    break;
+                case 30:
+                    Console.WriteLine("case가 30일 경우 출력되는 구문");
+                    break;
+                default:
+                    Console.WriteLine("case가 없고 default일 경우 출력되는 구문");
+                    break;
+            }
         }
     }
 }
