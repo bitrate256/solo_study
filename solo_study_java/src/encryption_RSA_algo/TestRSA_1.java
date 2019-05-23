@@ -1,4 +1,4 @@
-package encryption;
+package encryption_RSA_algo;
 import java.security.Key;
 import java.security.KeyFactory;
 import java.security.KeyPair;
@@ -8,7 +8,7 @@ import java.security.spec.RSAPublicKeySpec;
 import java.util.Scanner;
 
 import javax.crypto.Cipher;
-public class TestRSA {
+public class TestRSA_1 {
     public static void main(String[] args) {
         try {
             //공개키 및 개인키 생성
