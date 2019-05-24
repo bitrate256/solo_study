@@ -6,4 +6,8 @@
     <RootNamespace>solo_study_C_sharp</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="EO.Pdf" Version="19.1.40" />
+  </ItemGroup>
+
 </Project>
