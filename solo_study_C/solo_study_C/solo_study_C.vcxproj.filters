@@ -21,10 +21,13 @@
     <ClCompile Include="A_Hello.c">
       <Filter>소스 파일\chapter_1</Filter>
     </ClCompile>
-    <ClCompile Include="B_Escape_sequence.c">
+    <ClCompile Include="A_02_Escape_sequence.c">
       <Filter>소스 파일\chapter_1</Filter>
     </ClCompile>
-    <ClCompile Include="C_printf.c">
+    <ClCompile Include="A_03_printf.c">
+      <Filter>소스 파일\chapter_1</Filter>
+    </ClCompile>
+    <ClCompile Include="B_01_variable_01.c">
       <Filter>소스 파일\chapter_1</Filter>
     </ClCompile>
   </ItemGroup>
