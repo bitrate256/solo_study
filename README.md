@@ -20,3 +20,5 @@ It is always welcome to point out the wrong things and suggest better ideas.
      
    : C and C # are treated as the same repository on the current business computer.
      Therefore, if any of the commit occurs, the contents of the commit memo are displayed in the same way, please note.
+     
+02 : 진행상황에 대한 정리가 잘 이루어지지 않고 있습니다. 되도록 금주 안으로 정상화 하도록 하겠습니다.
