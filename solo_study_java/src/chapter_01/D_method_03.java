@@ -9,8 +9,8 @@ package chapter_01;
 
 alt 누른 상태에서 방향키 위아래로 하면 줄바꿈 가능
 
-       byte      <      short      <      int      <      long      <      float      <      double
-자동형변환           char            4byte            8byte                                   실수형
+ byte  <  short  <  int  <  long  <  float  <  double
+자동형변환     char     4byte   8byte               실수형
 
 정확도는 double이 더 높음
 
