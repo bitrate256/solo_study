@@ -24,3 +24,5 @@ It is always welcome to point out the wrong things and suggest better ideas.
 02 : 진행상황에 대한 정리가 잘 이루어지지 않고 있습니다. 되도록 금주 안으로 정상화 하도록 하겠습니다.
 
    : The progress has not been well organized. I will normalize to this week.
+
+03 : 회사에서 주로 사용하는 언어는 java와 C#이며, 앞으로 주로 맡게 될 파트는 C# 입니다.
