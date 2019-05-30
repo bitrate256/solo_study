@@ -1,5 +1,17 @@
 package chapter_01; // 패키지 이름 - 폴더 이름 쯤으로 기억하면 무방
 
+/*
+● nextLine() 위에 마우스 올리면 보이는 API 설명
+
+Public : 접근제한자(누구나 사용 가능)
+String : 리턴타입(원시형, 레퍼런스)
+nextLine() : 메소드 (파라미터가 없기 때문에 자바가 제공하는 것을 가따 쓰는 것
+
+메소드의 종류는 두가지
+-> 제공하는 메소드
+-> 사용자 정의 메소드
+*/
+
 import java.util.Scanner;
 
 //java.lang. *아래 있는 클래스는 따로 import 할 필요가 없다
@@ -35,3 +47,4 @@ public class D_method_01 {
 		System.out.println("당신의 지구 몸무게는 " + u_value2 + "이며, 달에서의 몸무게는 " + weight + "입니다.");
 	}
 }
+// 다시 머지
