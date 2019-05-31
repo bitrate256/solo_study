@@ -13,3 +13,4 @@ public class D_method_06 {
 		System.out.println("-1부터 10까지 짝수의 합:" + even); // for 문 바깥으로 아예 빼버려서 최종적으로 한번만 표기되도록 수정함.
 	}
 }
+// 모바일 편집 테스트
