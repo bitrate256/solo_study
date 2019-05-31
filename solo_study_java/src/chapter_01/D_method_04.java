@@ -39,4 +39,4 @@ public class D_method_04 {
 		// 그래서 변수를 임의로 result로 바꿈
 		CA.CircleAreaPrint(); // 최종적으로 써클에어리어 프린트를 호출하면 결과가 호출이 되므로 종료.
 	}
-}//테스트커밋
+}//테스트커밋2
