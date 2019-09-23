@@ -12,3 +12,4 @@ public class A_Hello {
 	}
 
 }
+// 업무컴퓨터 연동 테스트
