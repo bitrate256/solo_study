@@ -1,13 +1,14 @@
 #include <stdio.h>
+// Л═░Л┬≤Л≈░ К■╟К²╪ К⌠╠Й╦┴ М▒°Й╦╟.
 main()
 {
 	int jum = 85;
 	if (jum >= 90)
-		printf("гпа║ю╨ Aют╢о╢ы.\n");
+		printf("М∙≥Л═░Л²─ AЛ·┘К▀┬К▀╓.\n");
 	else if (jum >= 80)
-		printf("гпа║ю╨ Bют╢о╢ы.\n");
+		printf("М∙≥Л═░Л²─ BЛ·┘К▀┬К▀╓.\n");
 	else if (jum >= 70)
-		printf("гпа║ю╨ Cют╢о╢ы.\n");
+		printf("М∙≥Л═░Л²─ CЛ·┘К▀┬К▀╓.\n");
 	else
-		printf("гпа║ю╨ Fют╢о╢ы.\n");
+		printf("М∙≥Л═░Л²─ FЛ·┘К▀┬К▀╓.\n");
 }

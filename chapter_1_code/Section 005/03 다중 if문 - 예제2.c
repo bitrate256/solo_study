@@ -1,15 +1,16 @@
 #include <stdio.h>
+// í™€/ì§ íŒë³„í•˜ê¸°.
 main()
 {
 	int a = 21, b = 10;
 	if (a % 2 == 0)
 		if (b % 2 == 0)
-			printf("¸ğµÎ Â¦¼ö\n");
+			printf("ëª¨ë‘ ì§ìˆ˜.\n");
 		else
-			printf("a : Â¦¼ö, b : È¦¼ö\n");
+			printf("a : ì§ìˆ˜, b : í™€ìˆ˜\n");
 	else
 		if (b % 2 == 0)
-			printf("a : È¦¼ö, b : Â¦¼ö\n");
+			printf("a : í™€ìˆ˜, b : ì§ìˆ˜\n");
 		else
-			printf("¸ğµÎ È¦¼ö\n");
+			printf("ëª¨ë‘ í™€ìˆ˜\n");
 }

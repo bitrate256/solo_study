@@ -1,4 +1,8 @@
 #include <stdio.h>
+/*
+실행결과 작성
+답안 : 
+*/
 main()
 {
 	int hap, j, k, L;

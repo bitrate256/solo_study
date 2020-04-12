@@ -1,23 +1,24 @@
 #include <stdio.h>
 main()
+// ì ìˆ˜ì— ë”°ë¼ ë“±ê¸‰ í‘œê¸°.
 {
     int jum = 85;
     switch (jum / 10)
     {
     case 10:
     case 9:
-        printf("ÇĞÁ¡Àº AÀÔ´Ï´Ù.\n");
+        printf("í•™ì ì€ Aì…ë‹ˆë‹¤.\n");
         break;
     case 8:
-        printf("ÇĞÁ¡Àº BÀÔ´Ï´Ù.\n");
+        printf("í•™ì ì€ Bì…ë‹ˆë‹¤.\n");
         break;
     case 7:
-        printf("ÇĞÁ¡Àº CÀÔ´Ï´Ù.\n");
+        printf("í•™ì ì€ Cì…ë‹ˆë‹¤.\n");
         break;
     case 6:
-        printf("ÇĞÁ¡Àº DÀÔ´Ï´Ù.\n");
+        printf("í•™ì ì€ Dì…ë‹ˆë‹¤.\n");
         break;
     default:
-        printf("ÇĞÁ¡Àº FÀÔ´Ï´Ù.\n");
+        printf("í•™ì ì€ Fì…ë‹ˆë‹¤.\n");
     }
 }

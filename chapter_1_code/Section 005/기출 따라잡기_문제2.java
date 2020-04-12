@@ -1,4 +1,9 @@
 import java.util.Scanner;
+/*
+a,b 에 각각 8과 3을 입력했을 때 실행 결과는?
+실행결과 작성
+답안 : 
+*/
 public class Test {
 	public static void main(String args[]) {
 		Scanner scan = new Scanner(System.in);
