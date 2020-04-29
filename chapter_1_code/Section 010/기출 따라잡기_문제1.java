@@ -1,4 +1,7 @@
 public class Test {
+	/*
+	 실행 결과 확인.
+	 */
 	static int res10() {
 		return 4;
 	}

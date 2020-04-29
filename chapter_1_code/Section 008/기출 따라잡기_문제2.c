@@ -1,4 +1,7 @@
 #include <stdio.h>
+/*
+ 출력 결과 확인.
+ */
 main()
 {
 	char a[] = { 'A', 'B', 'C', 'D', 'E', 'F' };

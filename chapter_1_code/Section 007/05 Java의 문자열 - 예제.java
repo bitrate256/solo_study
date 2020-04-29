@@ -1,4 +1,7 @@
-public class Example { 
+public class Example {
+	/*
+	 문자열 거꾸로 출력. 결과 확인.
+	 */
 	public static void main(String[] args) {
 		String str = "Information!"; 
 		int n = str.length( ); 

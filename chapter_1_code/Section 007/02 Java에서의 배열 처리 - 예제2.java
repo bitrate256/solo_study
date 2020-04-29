@@ -1,3 +1,6 @@
+/*
+ 이전 자바에서 향상된 for 문으로 구현. 결과 확인.
+ */
 public class Example { 
 	public static void main(String[] args) { 
 		int[] a =  {90,100,80,70,60,50,30 }; 

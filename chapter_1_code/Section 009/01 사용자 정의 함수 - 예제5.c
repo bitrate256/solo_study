@@ -1,4 +1,7 @@
 #include <stdio.h>
+/*
+ 출력 결과 확인.
+ */
 int add(int i, int j) {
 	return i + j;
 }

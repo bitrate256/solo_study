@@ -1,4 +1,7 @@
 #include <stdio.h>
+/*
+ 최종 출력 결과.
+ */
 main() {
 	int n = 0, t = 0;
 	do {

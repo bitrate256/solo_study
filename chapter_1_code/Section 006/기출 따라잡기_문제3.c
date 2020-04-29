@@ -1,4 +1,7 @@
 #include <stdio.h>
+/*
+ 실행결과.
+ */
 main()
 {
 	int i = 10, hap = 0;

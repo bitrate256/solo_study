@@ -1,3 +1,6 @@
+/*
+ 실행결과.
+ */
 public class Problem {
 	public static void main(String[] args){
 		int[][] a = { {11, 12, 13, 14},

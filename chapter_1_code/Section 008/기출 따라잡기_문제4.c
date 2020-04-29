@@ -1,5 +1,8 @@
 #include <stdio.h>
 #include <string.h>
+/*
+ 출력 결과 확인.
+ */
 main()
 {
 	int k, n;

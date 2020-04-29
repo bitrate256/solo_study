@@ -1,3 +1,6 @@
+/*
+ 실행결과.
+ */
 public class Problem {
 	public static void main(String[] args){
 		String str = "Programming";

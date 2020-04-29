@@ -1,4 +1,7 @@
 #include <stdio.h>
+/*
+ 출력결과 확인.
+ */
 main()
 {
 	char a = 'A';

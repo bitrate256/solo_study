@@ -4,11 +4,14 @@ class Employee {
 	int salary; 
 	boolean sex; 
 } 
+/*
+ 출력 결과 확인.
+ */
 
 public class Test  { 
 	public static void main(String[ ] args) { 
 		Employee myJik = new Employee( ); 
-		myJik.name = "ȫ�浿"; 
+		myJik.name = "ȫ�浿"; 
 		myJik.idNum = 17001; 
 		myJik.salary = 4500000; 
 		myJik.sex = true; 

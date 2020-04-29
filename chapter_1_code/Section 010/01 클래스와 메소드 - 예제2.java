@@ -3,7 +3,9 @@ public class Test {
 		int i;
 		int j;
 	}
-
+/*
+ 두 수를 교환하는 프로그램. 결과 확인.
+ */
 	public static void main(String[] args) {
 		AAclass myVal = new AAclass();
 		myVal.i = 10;

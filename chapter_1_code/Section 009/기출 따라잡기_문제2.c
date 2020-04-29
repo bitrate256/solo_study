@@ -1,4 +1,7 @@
 #include <stdio.h>
+/*
+ 출력 결과 확인.
+ */
 func(int* p) {
 	printf("%d\n", *p);
 	printf("%d\n", p[2]);
